@@ -63,6 +63,7 @@ export default function Nav() {
         <MagnifyingGlassIcon className="w-6" />
       </button>
       {/* test */}
+      {/* test */}
     </nav>
   );
 }
